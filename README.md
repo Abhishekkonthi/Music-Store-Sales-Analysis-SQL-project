@@ -1,1 +1,1 @@
-# Music-Store-Sales-Analysis-SQL-project
+Performed in-depth analysis of a relational music store database using SQL to extract actionable business insights related to customer behavior, track sales, genre popularity, and employee performance.# Music-Store-Sales-Analysis-SQL-project
